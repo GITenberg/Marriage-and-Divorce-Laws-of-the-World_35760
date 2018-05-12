@@ -1,0 +1,28 @@
+_repo: Marriage-and-Divorce-Laws-of-the-World_35760
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ringrose, Hyacinthe
+    birthdate: 1872
+    deathdate: 1946
+    gutenberg_agent_id: '37882'
+    url: http://www.gutenberg.org/2009/agents/37882
+description: ''
+gutenberg_issued: '2011-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35760'
+  lccn: '11005426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage law'
+- !lcsh 'Divorce -- Law and legislation'
+- !lcc 'K'
+title: Marriage and Divorce Laws of the World
+url: http://www.gutenberg.org/ebooks/35760
